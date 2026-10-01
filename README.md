@@ -88,6 +88,14 @@ You don't need to memorize this list — it's here for reference. Just describe 
 | `explain-this-codebase` | Explain a codebase in plain English for non-technical readers |
 | `add-new-skill` | Scaffold new skills following the standard format |
 | `check-prd-readiness` | Score a PRD's readiness for an AI code pipeline with traffic-light ratings |
+| `name-my-constraint` | Turn a recurring problem into five likely people, process or tooling causes |
+| `estimate-cost-of-delay` | Put a rough, assumption-rated cost on one week of delay |
+| `draft-90-day-plan` | Draft a retire, change, adopt plan across people, process and tooling |
+| `decide-what-to-stop` | Rank the rituals, meetings and tools a team could retire |
+| `map-who-must-agree` | List who must back a change and how to open the conversation |
+| `prepare-to-listen` | Prepare a leader to listen well in a pre-mortem |
+| `run-pre-mortem` | List 12 blunt reasons a project failed, grouped into themes |
+| `rank-pre-mortem-risks` | Sort pre-mortem risks into fix first, plan B, watch and ignore |
 
 ---
 
