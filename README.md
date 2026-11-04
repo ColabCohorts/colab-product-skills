@@ -87,7 +87,7 @@ You don't need to memorize this list — it's here for reference. Just describe 
 | `generate-ai-ready-prd` | Expand a problem, persona, and solution into a full 8-section AI-ready PRD |
 | `explain-this-codebase` | Explain a codebase in plain English for non-technical readers |
 | `add-new-skill` | Scaffold new skills following the standard format |
-| `check-prd-readiness` | Score a PRD's readiness for an AI code pipeline with traffic-light ratings |
+| `check-prd-readiness` | Gate-check a PRD before an AI code pipeline: traffic-light ratings for core checks, an 8-section scorecard, and paste-in fixes for blocking issues |
 | `name-my-constraint` | Turn a recurring problem into five likely people, process or tooling causes |
 | `estimate-cost-of-delay` | Put a rough, assumption-rated cost on one week of delay |
 | `draft-90-day-plan` | Draft a retire, change, adopt plan across people, process and tooling |
